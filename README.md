@@ -1,4 +1,4 @@
-# TibCERT Website ( https://tenzinchoten.github.io/Tibcert-BS/response_hub.html )
+# TibCERT Website  https://tenzinchoten.github.io/Tibcert-BS/index.html 
 
 ## 📋 Features
 
